@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #fffafa;
+}
+
+.bg-recover {
+  background-color: #7cfc00;
+}
+
+.bg-confirm {
+  background-color: #fff80a;
+}
+
+.bg-deads {
+  background-color: #ff0000;
+}
+
+.prevention {
+  width: 10rem;
+}
